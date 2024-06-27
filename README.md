@@ -12,7 +12,7 @@ The official pytorch implementation of the paper **[AMFNet: Attention-Guided Mul
 ### News
 **2024.06.20** The Baseline, including the pretrained models and code, are available now.You can download our pretrained weights through [here](https://pan.baidu.com/s/1U8m3wEhr0LbMYbC9CJ2Ncw?pwd=u0ih)
 
-**2022.05.13** Our [paper](https://www.mdpi.com/2072-4292/16/10/1765) is accepted by **[Remote Sesning](https://www.mdpi.com/journal/remotesensing)** (Impact Factor=4.2)
+**2024.05.13** Our [paper](https://www.mdpi.com/2072-4292/16/10/1765) is accepted by **[Remote Sesning](https://www.mdpi.com/journal/remotesensing)** (Impact Factor=4.2)
 
 
 ## Usage
